@@ -1,1 +1,1 @@
-# Python-Tkinter-WeightConverter
+# Python Tkinter Weight Converter
